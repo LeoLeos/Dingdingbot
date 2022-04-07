@@ -1,0 +1,5 @@
+# 在这里添加钉钉机器人的信息
+
+bot1:
+  secret: ""
+  access_token: ""
